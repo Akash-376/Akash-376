@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Chauhan</h1>
 <h3 align="center">A passionate full Java backend developer from India</h3>
-<img align = "right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F81%2F17%2F8b%2F81178b47a8598f0c81c4799f2cdd4057.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F311381761734186207%2F&tbnid=QCZULViz1nWbzM&vet=12ahUKEwjHqMDfz6T9AhWbGbcAHaNLASAQMygGegUIARCJAg..i&docid=UEHU7ZIjTMZbSM&w=800&h=600&q=developer%20animated%20gif&ved=2ahUKEwjHqMDfz6T9AhWbGbcAHaNLASAQMygGegUIARCJAg" alt="">
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLoWW3oe7E39INiVukdB-l5k6Z5MMQ4_6PbA&usqp=CAU" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-376&label=Profile%20views&color=0e75b6&style=flat" alt="akash-376" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-376" alt="akash-376" /></a> </p>
